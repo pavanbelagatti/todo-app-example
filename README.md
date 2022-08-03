@@ -45,11 +45,3 @@ The above with create an image with the `latest` tag. To run the container execu
 ```sh
 docker run -it -p 8080:8080 --name todo_list_app thoba/todo-list-app
 ```
-
-You can also use `docker-compose` if you have it installed. To build and run the latest source using `docker-compose` execute
-
-```sh
-docker-compose up --build -d
-```
-
-and visit http://localhost:8080 in your browser
