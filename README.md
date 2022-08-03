@@ -3,8 +3,8 @@
 ## Prerequisites 
 
 - [nodejs](https://nodejs.org/en/)
-> - [docker](https://docs.docker.com/) and [docker-compose](https://docs.docker.com/compose/)
-> - [helm](https://helm.sh/) and [minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+> - [docker](https://docs.docker.com/)
+> - [minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/) or any cloud provider to create a cluster
 
 ## Install
 
